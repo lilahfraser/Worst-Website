@@ -1,0 +1,119 @@
+body {
+    background-color: lightblue;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family:Palatino;
+    color: magenta;
+    text-decoration: line-through;
+    letter-spacing: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-style:outset ;
+    position: fixed;
+    left: 600px;
+}
+
+greece{
+    float: right;
+    width: 150px;
+    border-style: dotted;
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+    top: 250px;
+    left: 1100px
+
+}
+greece1{
+    float: right;
+    width: 500px;
+
+}
+greece2{
+    float: right;
+    display: inline-block;
+    border-image-width: 12px;
+    height:100px;
+}
+greece3{
+
+    display: inline-block;
+    width: 45px;
+    height: 100px;
+}
+
+cabo{
+   width: 25px;
+    position: relative;
+    left: 30px;
+}
+cabo1{
+    border-color: deeppink;
+    border-width: thick;
+
+    position: relative;
+    left: 90px;
+}
+cabo2{
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+    left: 30px;
+}
+cabo3{
+    border-color: deeppink;
+    border-width: thick;
+    position: absolute;
+}
+cabo4{
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+}
+
+tahoe1{
+    float: right;
+    width: 150px;
+    border-style: dotted;
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+    top: 250px;
+    left: 1100px
+
+}
+tahoe3{
+    float: right;
+    width: 150px;
+    border-style: dotted;
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+    top: 250px;
+    left: 1100px
+
+}
+tahoe2{
+    float: right;
+    width: 150px;
+    border-style: dotted;
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+    top: 250px;
+    left: 1100px
+
+}
+tahoe{
+    float: right;
+    width: 150px;
+    border-style: dotted;
+    border-color: deeppink;
+    border-width: thick;
+    position: relative;
+    top: 250px;
+    left: 1100px
+
+}
